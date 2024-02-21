@@ -1,6 +1,7 @@
 # SFED-AES-256
 
 Single File Encryption & Decryption: AES 256
+- Version 0.0.1
 
 This utility provides a simple command-line interface for encrypting and decrypting files using the AES (Advanced Encryption Standard) algorithm. It is designed to be easy to use for basic encryption tasks, offering the flexibility to work with different key inputs and modes.
 
